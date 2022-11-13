@@ -1,0 +1,1239 @@
+1668299592110	geckodriver	INFO	Listening on 127.0.0.1:49851
+1668299595200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49852" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7GpRDM"
+1668299595625	Marionette	INFO	Marionette enabled
+1668299595630	Marionette	INFO	Listening on port 49861
+Read port: 49861
+WebDriver BiDi listening on ws://127.0.0.1:49852
+1668299595740	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7GpRDM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49852/devtools/browser/dda44517-d11f-4601-9420-dc587785e1f7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668299603077	Marionette	INFO	Stopped listening on port 49861
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668299650417	geckodriver	INFO	Listening on 127.0.0.1:49914
+1668299653503	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileAThpAL"
+1668299653813	Marionette	INFO	Marionette enabled
+1668299653819	Marionette	INFO	Listening on port 49924
+Read port: 49924
+WebDriver BiDi listening on ws://127.0.0.1:49915
+1668299653918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileAThpAL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49915/devtools/browser/b3f83ffc-155e-4528-911f-685e3cbe544b
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1668299682923	Marionette	INFO	Stopped listening on port 49924
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668301048368	geckodriver	INFO	Listening on 127.0.0.1:50524
+1668301051438	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile8ZicNr"
+1668301051745	Marionette	INFO	Marionette enabled
+1668301051749	Marionette	INFO	Listening on port 50534
+Read port: 50534
+WebDriver BiDi listening on ws://127.0.0.1:50525
+1668301051847	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile8ZicNr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50525/devtools/browser/37e910bf-7079-4aab-827b-ff698b30c9b3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668301073365	Marionette	INFO	Stopped listening on port 50534
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668301266235	geckodriver	INFO	Listening on 127.0.0.1:50621
+1668301269311	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50622" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileKSf12F"
+1668301269612	Marionette	INFO	Marionette enabled
+1668301269616	Marionette	INFO	Listening on port 50633
+Read port: 50633
+WebDriver BiDi listening on ws://127.0.0.1:50622
+1668301269712	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileKSf12F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50622/devtools/browser/476299d1-a583-43a4-a4c6-8bdd97b844e9
+1668301287321	Marionette	INFO	Stopped listening on port 50633
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668301314638	geckodriver	INFO	Listening on 127.0.0.1:50667
+1668301317696	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50668" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileLHHC1i"
+1668301317981	Marionette	INFO	Marionette enabled
+1668301317985	Marionette	INFO	Listening on port 50675
+Read port: 50675
+WebDriver BiDi listening on ws://127.0.0.1:50668
+1668301318084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileLHHC1i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50668/devtools/browser/962337d9-5e80-4933-b29b-629b4e5e0cd6
+1668301334555	Marionette	INFO	Stopped listening on port 50675
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 7368, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668301476079	geckodriver	INFO	Listening on 127.0.0.1:50740
+1668301479133	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTV1XdW"
+1668301479423	Marionette	INFO	Marionette enabled
+1668301479427	Marionette	INFO	Listening on port 50750
+Read port: 50750
+WebDriver BiDi listening on ws://127.0.0.1:50741
+1668301479523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTV1XdW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50741/devtools/browser/178b631a-017f-4ca7-8db0-d16d49f60030
+1668301654813	Marionette	INFO	Stopped listening on port 50750
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668301688974	geckodriver	INFO	Listening on 127.0.0.1:50826
+1668301692038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50827" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXBr0ve"
+1668301692327	Marionette	INFO	Marionette enabled
+1668301692331	Marionette	INFO	Listening on port 50836
+Read port: 50836
+WebDriver BiDi listening on ws://127.0.0.1:50827
+1668301692423	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXBr0ve\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50827/devtools/browser/943b37ad-43e2-47dc-b36e-4ea69506edc3
+1668301719750	Marionette	INFO	Stopped listening on port 50836
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668301870033	geckodriver	INFO	Listening on 127.0.0.1:51109
+1668301873098	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51110" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileckClcw"
+1668301873391	Marionette	INFO	Marionette enabled
+1668301873395	Marionette	INFO	Listening on port 51117
+Read port: 51117
+WebDriver BiDi listening on ws://127.0.0.1:51110
+1668301873496	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileckClcw\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51110/devtools/browser/b5998c53-323c-42e8-bfe8-cf5614d5e647
+1668301912213	Marionette	INFO	Stopped listening on port 51117
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668301970473	geckodriver	INFO	Listening on 127.0.0.1:51179
+1668301973542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileKDI7eu"
+1668301973828	Marionette	INFO	Marionette enabled
+1668301973832	Marionette	INFO	Listening on port 51189
+Read port: 51189
+WebDriver BiDi listening on ws://127.0.0.1:51180
+1668301973942	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileKDI7eu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51180/devtools/browser/1c0aaf65-044e-479e-b4df-068aa305553d
+1668301996122	Marionette	INFO	Stopped listening on port 51189
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668302100492	geckodriver	INFO	Listening on 127.0.0.1:51239
+1668302103549	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51240" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilefDmKhv"
+1668302103838	Marionette	INFO	Marionette enabled
+1668302103842	Marionette	INFO	Listening on port 51249
+Read port: 51249
+WebDriver BiDi listening on ws://127.0.0.1:51240
+1668302103936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilefDmKhv\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51240/devtools/browser/d3802295-3495-48c5-b0bb-1c28ca48163c
+1668302126763	Marionette	INFO	Stopped listening on port 51249
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668302256142	geckodriver	INFO	Listening on 127.0.0.1:51300
+1668302259221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileRzmeua"
+1668302259512	Marionette	INFO	Marionette enabled
+1668302259516	Marionette	INFO	Listening on port 51310
+Read port: 51310
+WebDriver BiDi listening on ws://127.0.0.1:51301
+1668302259610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileRzmeua\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51301/devtools/browser/22fb7b28-1110-4894-a47b-af5378661ec2
+1668302435583	Marionette	INFO	Stopped listening on port 51310
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "51628" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileqMp8BZ"
+1668302415087	Marionette	INFO	Marionette enabled
+1668302415091	Marionette	INFO	Listening on port 51637
+Read port: 51637
+WebDriver BiDi listening on ws://127.0.0.1:51628
+1668302415205	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileqMp8BZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51628/devtools/browser/d14d1d83-24ba-4f4c-aab1-1a2116e95d46
+1668302432288	Marionette	INFO	Stopped listening on port 51637
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668302475721	geckodriver	INFO	Listening on 127.0.0.1:51694
+1668302478792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQqX3rV"
+1668302479077	Marionette	INFO	Marionette enabled
+1668302479081	Marionette	INFO	Listening on port 51704
+Read port: 51704
+WebDriver BiDi listening on ws://127.0.0.1:51695
+1668302479177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQqX3rV\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51695/devtools/browser/bc8fadac-3a05-4fc1-9888-a86f0b930fc2
+1668302521295	Marionette	INFO	Stopped listening on port 51704
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668302570355	geckodriver	INFO	Listening on 127.0.0.1:51757
+1668302573430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOc31oC"
+1668302573720	Marionette	INFO	Marionette enabled
+1668302573723	Marionette	INFO	Listening on port 51767
+Read port: 51767
+WebDriver BiDi listening on ws://127.0.0.1:51758
+1668302573836	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOc31oC\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51758/devtools/browser/c4ab872f-ea91-42d9-a965-b0e9a75a8023
+1668302709794	geckodriver	INFO	Listening on 127.0.0.1:51829
+1668302712867	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51830" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile4zQvlH"
+1668302713153	Marionette	INFO	Marionette enabled
+1668302713157	Marionette	INFO	Listening on port 51839
+Read port: 51839
+WebDriver BiDi listening on ws://127.0.0.1:51830
+1668302713255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile4zQvlH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51830/devtools/browser/332b1ac1-0a6d-4bf8-a662-65a91f896c38
+1668302739577	Marionette	INFO	Stopped listening on port 51839
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668302818144	geckodriver	INFO	Listening on 127.0.0.1:51914
+1668302821213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51915" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecp5VkM"
+1668302821512	Marionette	INFO	Marionette enabled
+1668302821516	Marionette	INFO	Listening on port 51924
+Read port: 51924
+WebDriver BiDi listening on ws://127.0.0.1:51915
+1668302821614	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecp5VkM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51915/devtools/browser/05d6749a-54cf-4274-8c38-e0ce15a49005
+1668303077349	geckodriver	INFO	Listening on 127.0.0.1:51990
+1668303080405	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51991" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileT1VWjb"
+1668303080691	Marionette	INFO	Marionette enabled
+1668303080695	Marionette	INFO	Listening on port 52000
+Read port: 52000
+WebDriver BiDi listening on ws://127.0.0.1:51991
+1668303080789	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileT1VWjb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51991/devtools/browser/659eb074-f288-4d46-8673-9aa49d52b141
+1668303107159	Marionette	INFO	Stopped listening on port 52000
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668303476723	geckodriver	INFO	Listening on 127.0.0.1:52134
+1668303479788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0tD9SW"
+1668303480101	Marionette	INFO	Marionette enabled
+1668303480105	Marionette	INFO	Listening on port 52144
+Read port: 52144
+WebDriver BiDi listening on ws://127.0.0.1:52135
+1668303480208	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0tD9SW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52135/devtools/browser/5694f3ef-6ba3-40e6-8a0c-98257e67921c
+1668303501284	Marionette	INFO	Stopped listening on port 52144
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668303590400	geckodriver	INFO	Listening on 127.0.0.1:52195
+1668303593463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2g6qr4"
+1668303593787	Marionette	INFO	Marionette enabled
+1668303593792	Marionette	INFO	Listening on port 52205
+Read port: 52205
+WebDriver BiDi listening on ws://127.0.0.1:52196
+1668303593900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2g6qr4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52196/devtools/browser/03a90d8e-1be9-477e-96c5-40e50feb8cc4
+1668303602125	Marionette	INFO	Stopped listening on port 52205
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668303641914	geckodriver	INFO	Listening on 127.0.0.1:52254
+1668303645001	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52255" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTaiICM"
+1668303645300	Marionette	INFO	Marionette enabled
+1668303645304	Marionette	INFO	Listening on port 52264
+Read port: 52264
+WebDriver BiDi listening on ws://127.0.0.1:52255
+1668303645400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTaiICM\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52255/devtools/browser/12825308-0da3-4395-b7f5-291a73c57715
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668303847665	Marionette	INFO	Stopped listening on port 52264
+[Parent 3932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emp\\rust_mozprofileKDGnnT"
+1668303731670	Marionette	INFO	Marionette enabled
+1668303731674	Marionette	INFO	Listening on port 52324
+Read port: 52324
+WebDriver BiDi listening on ws://127.0.0.1:52315
+1668303731780	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileKDGnnT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52315/devtools/browser/cd2fb073-5384-4194-bad2-3038b384c5bd
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668303849033	Marionette	INFO	Stopped listening on port 52324
+[Parent 13080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 13080, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+t 52388
+Read port: 52388
+WebDriver BiDi listening on ws://127.0.0.1:52379
+1668303826355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileK7ATSx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52379/devtools/browser/f62f27d1-cc60-4782-9893-d417e36989a7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668303844994	Marionette	INFO	Stopped listening on port 52388
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668303919661	geckodriver	INFO	Listening on 127.0.0.1:52445
+1668303922739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52446" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0zkHl1"
+1668303923040	Marionette	INFO	Marionette enabled
+1668303923044	Marionette	INFO	Listening on port 52455
+Read port: 52455
+WebDriver BiDi listening on ws://127.0.0.1:52446
+1668303923144	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0zkHl1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52446/devtools/browser/f0aedcd6-3923-423e-a185-242eab4b6803
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668303945337	Marionette	INFO	Stopped listening on port 52455
+1668304061236	geckodriver	INFO	Listening on 127.0.0.1:52522
+1668304064298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52523" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemSIhS4"
+1668304064588	Marionette	INFO	Marionette enabled
+1668304064592	Marionette	INFO	Listening on port 52532
+Read port: 52532
+WebDriver BiDi listening on ws://127.0.0.1:52523
+1668304064690	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemSIhS4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52523/devtools/browser/d1984cd0-97b6-4098-92d7-48a30cd862cc
+1668304087197	Marionette	INFO	Stopped listening on port 52532
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668304188487	geckodriver	INFO	Listening on 127.0.0.1:52613
+1668304191571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52614" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoupZhr"
+1668304191862	Marionette	INFO	Marionette enabled
+1668304191866	Marionette	INFO	Listening on port 52623
+Read port: 52623
+WebDriver BiDi listening on ws://127.0.0.1:52614
+1668304191964	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoupZhr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52614/devtools/browser/d1cc5c62-527a-4574-9a15-0f30d4235b91
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668304336313	Marionette	INFO	Stopped listening on port 52623
+1668304435813	geckodriver	INFO	Listening on 127.0.0.1:52718
+1668304438882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileWhtXy6"
+1668304439264	Marionette	INFO	Marionette enabled
+1668304439271	Marionette	INFO	Listening on port 52733
+Read port: 52733
+WebDriver BiDi listening on ws://127.0.0.1:52719
+1668304439500	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileWhtXy6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52719/devtools/browser/071e643b-4b46-4cd0-a5f3-d8a1b52e7914
+1668304473292	Marionette	INFO	Stopped listening on port 52733
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+.1:52745
+1668304468701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilevbGwNc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52745/devtools/browser/df28d0bc-8aaf-469e-b68d-b9249436938d
+1668304481803	Marionette	INFO	Stopped listening on port 52754
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668304532483	geckodriver	INFO	Listening on 127.0.0.1:52818
+1668304535570	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52819" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilekDXPYN"
+1668304535872	Marionette	INFO	Marionette enabled
+1668304535879	Marionette	INFO	Listening on port 52828
+Read port: 52828
+WebDriver BiDi listening on ws://127.0.0.1:52819
+1668304535978	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilekDXPYN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52819/devtools/browser/9046f7db-237f-43e4-9949-73562774bece
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668304630669	geckodriver	INFO	Listening on 127.0.0.1:52888
+1668304633753	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52889" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileLZLNAh"
+1668304634057	Marionette	INFO	Marionette enabled
+1668304634061	Marionette	INFO	Listening on port 52898
+Read port: 52898
+WebDriver BiDi listening on ws://127.0.0.1:52889
+1668304634163	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileLZLNAh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52889/devtools/browser/2919fb4e-2eb9-4666-b95d-186808e9d2b7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668304992288	geckodriver	INFO	Listening on 127.0.0.1:53006
+1668304995339	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53007" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilehh7HN8"
+1668304995639	Marionette	INFO	Marionette enabled
+1668304995643	Marionette	INFO	Listening on port 53016
+Read port: 53016
+WebDriver BiDi listening on ws://127.0.0.1:53007
+1668304995743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilehh7HN8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53007/devtools/browser/57d10cca-6fad-4d90-a367-246df90f8d1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668305044146	geckodriver	INFO	Listening on 127.0.0.1:53065
+1668305047210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53066" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilePFrsSs"
+1668305047509	Marionette	INFO	Marionette enabled
+1668305047513	Marionette	INFO	Listening on port 53075
+Read port: 53075
+WebDriver BiDi listening on ws://127.0.0.1:53066
+1668305047610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilePFrsSs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53066/devtools/browser/2ac2a567-d06a-44b8-9590-0d60ed14e7de
+1668305061488	Marionette	INFO	Stopped listening on port 53075
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668305108163	geckodriver	INFO	Listening on 127.0.0.1:53126
+1668305111237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53127" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOt9n6t"
+1668305111529	Marionette	INFO	Marionette enabled
+1668305111533	Marionette	INFO	Listening on port 53136
+Read port: 53136
+WebDriver BiDi listening on ws://127.0.0.1:53127
+1668305111634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOt9n6t\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53127/devtools/browser/2b36a0dc-dfe9-45cb-a8e3-ccbec0229e0b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668305163252	geckodriver	INFO	Listening on 127.0.0.1:53183
+1668305166342	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53184" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile78BW3H"
+1668305166639	Marionette	INFO	Marionette enabled
+1668305166643	Marionette	INFO	Listening on port 53193
+Read port: 53193
+WebDriver BiDi listening on ws://127.0.0.1:53184
+1668305166744	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile78BW3H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53184/devtools/browser/d2ae6dbe-e130-4702-9b24-f13cb39c0adc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668305188848	Marionette	INFO	Stopped listening on port 53193
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668305223939	geckodriver	INFO	Listening on 127.0.0.1:53237
+1668305226998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53238" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilentXt10"
+1668305227297	Marionette	INFO	Marionette enabled
+1668305227301	Marionette	INFO	Listening on port 53247
+Read port: 53247
+WebDriver BiDi listening on ws://127.0.0.1:53238
+1668305227402	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilentXt10\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53238/devtools/browser/4ccf16e7-59ec-4008-805a-91fcaceb155b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668305388081	Marionette	INFO	Stopped listening on port 53247
+1668305464975	geckodriver	INFO	Listening on 127.0.0.1:53321
+1668305468052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53322" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileBjs6fx"
+1668305468367	Marionette	INFO	Marionette enabled
+1668305468371	Marionette	INFO	Listening on port 53331
+Read port: 53331
+WebDriver BiDi listening on ws://127.0.0.1:53322
+1668305468474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileBjs6fx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53322/devtools/browser/82436a02-c1c9-4e41-b77d-92f019f08fcc
+1668305496387	Marionette	INFO	Stopped listening on port 53331
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668305589302	geckodriver	INFO	Listening on 127.0.0.1:53390
+1668305592373	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53391" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2SKayq"
+1668305592684	Marionette	INFO	Marionette enabled
+1668305592689	Marionette	INFO	Listening on port 53400
+Read port: 53400
+WebDriver BiDi listening on ws://127.0.0.1:53391
+1668305592795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2SKayq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53391/devtools/browser/26c85ad3-9fc9-47e0-a150-8ea839f90a00
+1668305616465	Marionette	INFO	Stopped listening on port 53400
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668305659431	geckodriver	INFO	Listening on 127.0.0.1:53444
+1668305662501	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53445" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileHsNdgf"
+1668305662808	Marionette	INFO	Marionette enabled
+1668305662812	Marionette	INFO	Listening on port 53456
+Read port: 53456
+WebDriver BiDi listening on ws://127.0.0.1:53445
+1668305662916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileHsNdgf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53445/devtools/browser/657154e1-469d-4dab-a2c0-9b46fa1a34b9
+1668306108193	Marionette	INFO	Stopped listening on port 53456
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "53513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileWYteEL"
+1668305743917	Marionette	INFO	Marionette enabled
+1668305743921	Marionette	INFO	Listening on port 53522
+Read port: 53522
+WebDriver BiDi listening on ws://127.0.0.1:53513
+1668305744018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileWYteEL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53513/devtools/browser/948cf4fb-b102-4a1b-b253-695fff248236
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+1668305780389	Marionette	INFO	Stopped listening on port 53522
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668305855087	geckodriver	INFO	Listening on 127.0.0.1:53579
+1668305858163	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileINQTAX"
+1668305858456	Marionette	INFO	Marionette enabled
+1668305858460	Marionette	INFO	Listening on port 53589
+Read port: 53589
+WebDriver BiDi listening on ws://127.0.0.1:53580
+1668305858563	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileINQTAX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53580/devtools/browser/210a1821-9852-426a-ac33-1ed262560cec
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript error: resource://gre/actors/SelectChild.jsm, line 300: TypeError: this.element is null
+1668305915083	Marionette	INFO	Stopped listening on port 53589
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+1668306056292	geckodriver	INFO	Listening on 127.0.0.1:53653
+1668306059366	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53654" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilesc1a3E"
+1668306059660	Marionette	INFO	Marionette enabled
+1668306059664	Marionette	INFO	Listening on port 53663
+Read port: 53663
+WebDriver BiDi listening on ws://127.0.0.1:53654
+1668306059763	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilesc1a3E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53654/devtools/browser/c40d87e3-649b-45ce-8368-7af28fb26534
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 593: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1668306073477	Marionette	INFO	Stopped listening on port 53663
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668306199590	geckodriver	INFO	Listening on 127.0.0.1:53740
+1668306202668	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53741" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2pm8D8"
+1668306202962	Marionette	INFO	Marionette enabled
+1668306202967	Marionette	INFO	Listening on port 53750
+Read port: 53750
+WebDriver BiDi listening on ws://127.0.0.1:53741
+1668306203070	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2pm8D8\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53741/devtools/browser/8e1a5ee5-aada-456c-8910-e98ee08d2da3
+1668306221950	Marionette	INFO	Stopped listening on port 53750
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668306265516	geckodriver	INFO	Listening on 127.0.0.1:53808
+1668306268577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileyzpHSg"
+1668306268876	Marionette	INFO	Marionette enabled
+1668306268880	Marionette	INFO	Listening on port 53818
+Read port: 53818
+WebDriver BiDi listening on ws://127.0.0.1:53809
+1668306268981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileyzpHSg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53809/devtools/browser/63b54dda-3c1a-4cee-b3d8-5d8c39d92c9c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668306381708	geckodriver	INFO	Listening on 127.0.0.1:53897
+1668306384766	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53898" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOFVQyn"
+1668306385058	Marionette	INFO	Marionette enabled
+1668306385062	Marionette	INFO	Listening on port 53907
+Read port: 53907
+WebDriver BiDi listening on ws://127.0.0.1:53898
+1668306385161	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOFVQyn\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53898/devtools/browser/a7a430ef-9301-4b95-b9d9-914f88cef7c7
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://www.elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.elections.tn.gov.in."
+JavaScript warning: https://www.elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.elections.tn.gov.in."
+JavaScript error: https://www.elections.tn.gov.in/rollpdf/PdfDownload.aspx, line 14: ReferenceError: $ is not defined
+1668306471455	Marionette	INFO	Stopped listening on port 53907
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668307242064	geckodriver	INFO	Listening on 127.0.0.1:54300
+1668307245127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54301" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemcIei4"
+1668307245457	Marionette	INFO	Marionette enabled
+1668307245461	Marionette	INFO	Listening on port 54313
+Read port: 54313
+WebDriver BiDi listening on ws://127.0.0.1:54301
+1668307245595	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemcIei4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54301/devtools/browser/bc1f9f90-cc3e-42b1-b7c5-61d0b1502df5
+1668307283967	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668307285253	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome:1668307294416	Marionette	INFO	Stopped listening on port 54351
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668307449573	geckodriver	INFO	Listening on 127.0.0.1:54527
+1668307452653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54528" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1Zv9ao"
+1668307453008	Marionette	INFO	Marionette enabled
+1668307453013	Marionette	INFO	Listening on port 54539
+WebDriver BiDi listening on ws://127.0.0.1:54528
+Read port: 54539
+1668307453261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1Zv9ao\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54528/devtools/browser/6da3a1f2-28f4-4366-a3b0-4018b0799a72
+1668307477032	Marionette	INFO	Stopped listening on port 54539
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 10700, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668307648258	geckodriver	INFO	Listening on 127.0.0.1:55076
+1668307651333	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55077" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoi4w6n"
+1668307651663	Marionette	INFO	Marionette enabled
+1668307651667	Marionette	INFO	Listening on port 55088
+WebDriver BiDi listening on ws://127.0.0.1:55077
+Read port: 55088
+1668307651921	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileoi4w6n\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55077/devtools/browser/08c9aec2-8432-4642-ba7a-4642c538a05b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668307663748	Marionette	INFO	Stopped listening on port 55088
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668307871328	geckodriver	INFO	Listening on 127.0.0.1:55257
+1668307874393	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55258" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileuYH66B"
+1668307874684	Marionette	INFO	Marionette enabled
+1668307874689	Marionette	INFO	Listening on port 55269
+Read port: 55269
+WebDriver BiDi listening on ws://127.0.0.1:55258
+1668307874790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileuYH66B\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55258/devtools/browser/91580ae6-984b-4774-9cb4-155349ec69ae
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668307886889	Marionette	INFO	Stopped listening on port 55269
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668307975965	geckodriver	INFO	Listening on 127.0.0.1:55376
+1668307979026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1rL10Z"
+1668307979317	Marionette	INFO	Marionette enabled
+1668307979321	Marionette	INFO	Listening on port 55387
+Read port: 55387
+WebDriver BiDi listening on ws://127.0.0.1:55377
+1668307979420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1rL10Z\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55377/devtools/browser/16bbb47c-0a66-46cb-927b-0873e6b416ec
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668308051211	Marionette	INFO	Stopped listening on port 55387
+[Parent 9224, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:723
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668308159519	geckodriver	INFO	Listening on 127.0.0.1:55553
+1668308162589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55554" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileODW4Bk"
+1668308162930	Marionette	INFO	Marionette enabled
+1668308162934	Marionette	INFO	Listening on port 55564
+WebDriver BiDi listening on ws://127.0.0.1:55554
+Read port: 55564
+1668308163178	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileODW4Bk\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55554/devtools/browser/aeeb6645-7127-4450-baea-29074b1ffcc3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668308298709	geckodriver	INFO	Listening on 127.0.0.1:55693
+1668308301777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55694" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilevKg9a7"
+1668308302080	Marionette	INFO	Marionette enabled
+1668308302085	Marionette	INFO	Listening on port 55705
+Read port: 55705
+WebDriver BiDi listening on ws://127.0.0.1:55694
+1668308302185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilevKg9a7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55694/devtools/browser/645f463b-cad2-4187-85b5-b48bf05126cb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668308502724	geckodriver	INFO	Listening on 127.0.0.1:55898
+1668308505792	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55899" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7TTaID"
+1668308506102	Marionette	INFO	Marionette enabled
+1668308506108	Marionette	INFO	Listening on port 55909
+Read port: 55909
+WebDriver BiDi listening on ws://127.0.0.1:55899
+1668308506224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7TTaID\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55899/devtools/browser/ff3dc0a0-0ab9-4179-b473-994fc5070352
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+JavaScript warning: https://elections.tn.gov.in/rollpdf/master-js/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://elections.tn.gov.in."
+1668308512925	Marionette	INFO	Stopped listening on port 55909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668308585635	geckodriver	INFO	Listening on 127.0.0.1:55995
+1668308588713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55996" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileM0OAl3"
+1668308589019	Marionette	INFO	Marionette enabled
+1668308589024	Marionette	INFO	Listening on port 56006
+Read port: 56006
+WebDriver BiDi listening on ws://127.0.0.1:55996
+1668308589133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileM0OAl3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55996/devtools/browser/0de63157-6b06-4335-8337-44ccdbc451b6
+1668308602084	Marionette	INFO	Stopped listening on port 56006
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 8068, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668308692239	geckodriver	INFO	Listening on 127.0.0.1:56107
+1668308695320	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXbJWrs"
+1668308695647	Marionette	INFO	Marionette enabled
+1668308695653	Marionette	INFO	Listening on port 56119
+WebDriver BiDi listening on ws://127.0.0.1:56108
+Read port: 56119
+1668308695925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileXbJWrs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56108/devtools/browser/4b8182f2-6e12-494b-ace1-ff6268b8cf44
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668308827582	geckodriver	INFO	Listening on 127.0.0.1:56233
+1668308830651	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemKOVaO"
+1668308830972	Marionette	INFO	Marionette enabled
+1668308830976	Marionette	INFO	Listening on port 56245
+Read port: 56245
+WebDriver BiDi listening on ws://127.0.0.1:56234
+1668308831080	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemKOVaO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56234/devtools/browser/2288df76-fe8e-40a2-bfc2-d7bfa2d046d2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668308955626	Marionette	INFO	Stopped listening on port 56245
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "56331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNXEt9I"
+1668308923629	Marionette	INFO	Marionette enabled
+1668308923634	Marionette	INFO	Listening on port 56341
+Read port: 56341
+WebDriver BiDi listening on ws://127.0.0.1:56331
+1668308923735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNXEt9I\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56331/devtools/browser/16081df2-5440-4073-8d3d-dc51631e59e5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668308936566	Marionette	INFO	Stopped listening on port 56341
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668308997777	geckodriver	INFO	Listening on 127.0.0.1:56426
+1668309000843	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56427" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileO8hjPq"
+1668309001147	Marionette	INFO	Marionette enabled
+1668309001151	Marionette	INFO	Listening on port 56438
+Read port: 56438
+WebDriver BiDi listening on ws://127.0.0.1:56427
+1668309001255	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileO8hjPq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56427/devtools/browser/86cc6c23-9fb7-4990-aa17-8226d8dcc9dc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668309418625	geckodriver	INFO	Listening on 127.0.0.1:56779
+1668309421712	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56780" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVyl3s3"
+1668309422022	Marionette	INFO	Marionette enabled
+1668309422026	Marionette	INFO	Listening on port 56788
+Read port: 56788
+WebDriver BiDi listening on ws://127.0.0.1:56780
+1668309422129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileVyl3s3\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56780/devtools/browser/0377358f-01a5-4831-86ba-c8af12acad6c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668309536824	geckodriver	INFO	Listening on 127.0.0.1:56894
+1668309539892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegrCemi"
+1668309540199	Marionette	INFO	Marionette enabled
+1668309540203	Marionette	INFO	Listening on port 56908
+Read port: 56908
+WebDriver BiDi listening on ws://127.0.0.1:56895
+1668309540306	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegrCemi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56895/devtools/browser/a888e1f9-360b-405a-9585-2cf7578d5dff
+1668309577201	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilekkF7nI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56933/devtools/browser/74879ab3-b9bc-4a9d-bc02-924526b5ce1c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668309793602	geckodriver	INFO	Listening on 127.0.0.1:57134
+1668309796663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57135" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile36OoUm"
+1668309797039	Marionette	INFO	Marionette enabled
+1668309797043	Marionette	INFO	Listening on port 57145
+WebDriver BiDi listening on ws://127.0.0.1:57135
+Read port: 57145
+1668309797171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile36OoUm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57135/devtools/browser/e5494ea4-84aa-4431-8ec8-011cf63440eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668310398208	Marionette	INFO	Stopped listening on port 57145
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57244" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTqgFxA"
+1668309897253	Marionette	INFO	Marionette enabled
+1668309897257	Marionette	INFO	Listening on port 57255
+Read port: 57255
+WebDriver BiDi listening on ws://127.0.0.1:57244
+1668309897359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTqgFxA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57244/devtools/browser/33b83cea-660d-4df4-a85d-a205d5618737
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668310399710	Marionette	INFO	Stopped listening on port 57255
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "57581" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilezKpYTN"
+1668310313280	Marionette	INFO	Marionette enabled
+1668310313285	Marionette	INFO	Listening on port 57592
+Read port: 57592
+WebDriver BiDi listening on ws://127.0.0.1:57581
+1668310313392	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilezKpYTN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57581/devtools/browser/20ad7937-b339-4361-9390-b968e8f1b142
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668310400912	Marionette	INFO	Stopped listening on port 57592
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668310456869	geckodriver	INFO	Listening on 127.0.0.1:57815
+1668310459940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57816" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecuOMIX"
+1668310460295	Marionette	INFO	Marionette enabled
+1668310460302	Marionette	INFO	Listening on port 57853
+WebDriver BiDi listening on ws://127.0.0.1:57816
+Read port: 57853
+1668310460532	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilecuOMIX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57816/devtools/browser/4a66c470-a656-41a8-a31c-de68599d7dd3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668311398626	geckodriver	INFO	Listening on 127.0.0.1:51921
+1668311401704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51922" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileN0yxkm"
+1668311402057	Marionette	INFO	Marionette enabled
+1668311402062	Marionette	INFO	Listening on port 51938
+WebDriver BiDi listening on ws://127.0.0.1:51922
+Read port: 51938
+1668311402439	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileN0yxkm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51922/devtools/browser/673d4573-8168-463d-8732-b489995fb56c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668311720107	geckodriver	INFO	Listening on 127.0.0.1:52294
+1668311723167	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52295" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilepzLihf"
+1668311723541	Marionette	INFO	Marionette enabled
+1668311723545	Marionette	INFO	Listening on port 52306
+WebDriver BiDi listening on ws://127.0.0.1:52295
+Read port: 52306
+1668311723748	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilepzLihf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52295/devtools/browser/9faaae0c-c242-4f8b-a7f1-ce187547c3ab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668312679727	geckodriver	INFO	Listening on 127.0.0.1:58879
+1668312682795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileGbxAxY"
+1668312683323	Marionette	INFO	Marionette enabled
+1668312683331	Marionette	INFO	Listening on port 58891
+Read port: 58891
+WebDriver BiDi listening on ws://127.0.0.1:58880
+1668312683471	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileGbxAxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58880/devtools/browser/5c2167e6-80c3-4238-998b-8c9f5b03d630
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313086844	geckodriver	INFO	Listening on 127.0.0.1:59231
+1668313089909	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59232" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebLld6F"
+1668313090297	Marionette	INFO	Marionette enabled
+1668313090302	Marionette	INFO	Listening on port 59243
+Read port: 59243
+WebDriver BiDi listening on ws://127.0.0.1:59232
+1668313090441	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebLld6F\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59232/devtools/browser/9686c123-caa4-46b1-9e2b-e44105e0189e
+1668313116933	Marionette	INFO	Stopped listening on port 59243
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668313274252	geckodriver	INFO	Listening on 127.0.0.1:59418
+1668313277313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1UVZaZ"
+1668313277729	Marionette	INFO	Marionette enabled
+1668313277734	Marionette	INFO	Listening on port 59431
+Read port: 59431
+WebDriver BiDi listening on ws://127.0.0.1:59419
+1668313277857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1UVZaZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59419/devtools/browser/295cd467-88a8-43ee-8809-e6e15701e0a0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313326804	geckodriver	INFO	Listening on 127.0.0.1:59515
+1668313329892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59516" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2lu0y6"
+1668313330272	Marionette	INFO	Marionette enabled
+1668313330279	Marionette	INFO	Listening on port 59526
+Read port: 59526
+WebDriver BiDi listening on ws://127.0.0.1:59516
+1668313330420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2lu0y6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59516/devtools/browser/dc2ee95d-1bb8-4f4d-a0e6-04de2acd1694
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313482768	geckodriver	INFO	Listening on 127.0.0.1:59682
+1668313485853	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileahwzRD"
+1668313486243	Marionette	INFO	Marionette enabled
+1668313486248	Marionette	INFO	Listening on port 59694
+Read port: 59694
+WebDriver BiDi listening on ws://127.0.0.1:59683
+1668313486383	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileahwzRD\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59683/devtools/browser/ae95b703-64c6-43fe-8f72-194b78ebc956
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+ "59760" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegtILci"
+1668313519438	Marionette	INFO	Marionette enabled
+1668313519444	Marionette	INFO	Listening on port 59773
+Read port: 59773
+WebDriver BiDi listening on ws://127.0.0.1:59760
+1668313519600	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilegtILci\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59760/devtools/browser/adc058f2-5336-4425-810c-0c0c20d47b03
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313662252	geckodriver	INFO	Listening on 127.0.0.1:59919
+1668313665312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59920" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNIsw1W"
+1668313665715	Marionette	INFO	Marionette enabled
+1668313665722	Marionette	INFO	Listening on port 59930
+Read port: 59930
+WebDriver BiDi listening on ws://127.0.0.1:59920
+1668313665838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNIsw1W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59920/devtools/browser/a04a6d96-ee2a-47c0-8753-0a1e4cf8aa85
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313699446	geckodriver	INFO	Listening on 127.0.0.1:59991
+1668313702494	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59992" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQfDT77"
+1668313702891	Marionette	INFO	Marionette enabled
+1668313702896	Marionette	INFO	Listening on port 60003
+Read port: 60003
+WebDriver BiDi listening on ws://127.0.0.1:59992
+1668313703012	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileQfDT77\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59992/devtools/browser/63e21bca-6211-4669-92f9-d6b98624a591
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313771609	geckodriver	INFO	Listening on 127.0.0.1:60090
+1668313774655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebPZ5Xz"
+1668313775041	Marionette	INFO	Marionette enabled
+1668313775046	Marionette	INFO	Listening on port 60104
+Read port: 60104
+WebDriver BiDi listening on ws://127.0.0.1:60091
+1668313775177	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilebPZ5Xz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60091/devtools/browser/2d90f344-0573-4e84-88e4-51c4b87dbe89
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313808050	geckodriver	INFO	Listening on 127.0.0.1:60164
+1668313811095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60165" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilenpwgUx"
+1668313811485	Marionette	INFO	Marionette enabled
+1668313811491	Marionette	INFO	Listening on port 60178
+Read port: 60178
+WebDriver BiDi listening on ws://127.0.0.1:60165
+1668313811609	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilenpwgUx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60165/devtools/browser/137c933d-7cef-49a1-a637-b9ba3562c608
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313853302	geckodriver	INFO	Listening on 127.0.0.1:60247
+1668313856374	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTPr5EP"
+1668313856803	Marionette	INFO	Marionette enabled
+1668313856808	Marionette	INFO	Listening on port 60259
+Read port: 60259
+WebDriver BiDi listening on ws://127.0.0.1:60248
+1668313856922	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTPr5EP\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60248/devtools/browser/cc18e758-4146-4f20-ad70-28228063ae44
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313874868	Marionette	INFO	Stopped listening on port 60259
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668313907157	geckodriver	INFO	Listening on 127.0.0.1:60343
+1668313910230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60344" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile83WlZ1"
+1668313910647	Marionette	INFO	Marionette enabled
+1668313910652	Marionette	INFO	Listening on port 60356
+Read port: 60356
+WebDriver BiDi listening on ws://127.0.0.1:60344
+1668313910800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile83WlZ1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60344/devtools/browser/f01a661f-c90b-4b47-a2d9-393d8b0d2eea
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313928433	geckodriver	INFO	Listening on 127.0.0.1:60410
+1668313931508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2Mgpvj"
+1668313931935	Marionette	INFO	Marionette enabled
+1668313931940	Marionette	INFO	Listening on port 60424
+Read port: 60424
+WebDriver BiDi listening on ws://127.0.0.1:60411
+1668313932091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile2Mgpvj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60411/devtools/browser/8c3ede93-7029-41a7-af12-e0fc6ddd498f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668313943843	Marionette	INFO	Stopped listening on port 60424
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668314052560	geckodriver	INFO	Listening on 127.0.0.1:60541
+1668314055614	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOZQKpf"
+1668314056017	Marionette	INFO	Marionette enabled
+1668314056023	Marionette	INFO	Listening on port 60554
+Read port: 60554
+WebDriver BiDi listening on ws://127.0.0.1:60542
+1668314056176	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileOZQKpf\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60542/devtools/browser/3745e5e9-57a9-4dcc-bb61-958698e4d5eb
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314066482	Marionette	INFO	Stopped listening on port 60551668314069266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileaLFChh"
+1668314069645	Marionette	INFO	Marionette enabled
+1668314069651	Marionette	INFO	Listening on port 60617
+Read port: 60617
+WebDriver BiDi listening on ws://127.0.0.1:60605
+1668314069779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileaLFChh\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60605/devtools/browser/64886697-07a9-4d52-a6da-b99425572cdc
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314083947	Marionette	INFO	Stopped listening on port 60611668314086734	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60667" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileP4MCKd"
+1668314087147	Marionette	INFO	Marionette enabled
+1668314087153	Marionette	INFO	Listening on port 60680
+Read port: 60680
+WebDriver BiDi listening on ws://127.0.0.1:60667
+1668314087300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileP4MCKd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60667/devtools/browser/693f643b-1053-4a08-82ce-f8f685d71c29
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314128158	Marionette	INFO	Stopped listening on port 60680
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60738" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilezZWN25"
+1668314117547	Marionette	INFO	Marionette enabled
+1668314117553	Marionette	INFO	Listening on port 60748
+Read port: 60748
+WebDriver BiDi listening on ws://127.0.0.1:60738
+1668314117696	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilezZWN25\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60738/devtools/browser/99d041ef-35aa-4d02-a50b-87823792764e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314127068	Marionette	INFO	Stopped listening on port 60748
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668314127297	geckodriver	INFO	Listening on 127.0.0.1:60796
+1668314130337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60797" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilePRl5pt"
+1668314130730	Marionette	INFO	Marionette enabled
+1668314130736	Marionette	INFO	Listening on port 60810
+Read port: 60810
+WebDriver BiDi listening on ws://127.0.0.1:60797
+1668314130857	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilePRl5pt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60797/devtools/browser/382a33ce-0f91-4a82-8435-e945e6c70f5d
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314152665	Marionette	INFO	Stopped listening on port 60810
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "60864" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJfFq3M"
+1668314152781	Marionette	INFO	Marionette enabled
+1668314152793	Marionette	INFO	Listening on port 60876
+Read port: 60876
+WebDriver BiDi listening on ws://127.0.0.1:60864
+1668314152943	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJfFq3M\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60864/devtools/browser/011e8be1-0616-4e18-a532-30822fe09e10
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314163931	Marionette	INFO	Stopped listening on port 60876
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668314224159	geckodriver	INFO	Listening on 127.0.0.1:60953
+1668314227228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilea6F4cG"
+1668314227610	Marionette	INFO	Marionette enabled
+1668314227616	Marionette	INFO	Listening on port 60965
+Read port: 60965
+WebDriver BiDi listening on ws://127.0.0.1:60954
+1668314227735	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilea6F4cG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60954/devtools/browser/ed7cb113-aefb-4932-9fba-668a19bbf64b
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314240514	Marionette	INFO	Stopped listening on port 60961668314242818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61017" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile77Zd2x"
+1668314243328	Marionette	INFO	Marionette enabled
+1668314243339	Marionette	INFO	Listening on port 61029
+Read port: 61029
+WebDriver BiDi listening on ws://127.0.0.1:61017
+1668314243603	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile77Zd2x\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61017/devtools/browser/a44a4626-a8a1-4811-b740-baad99cba752
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314256129	Marionette	INFO	Stopped listening on port 61021668314257748	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61078" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNItBu0"
+1668314258286	Marionette	INFO	Marionette enabled
+1668314258296	Marionette	INFO	Listening on port 61090
+Read port: 61090
+WebDriver BiDi listening on ws://127.0.0.1:61078
+1668314258481	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileNItBu0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61078/devtools/browser/bb5a053d-7f70-4ea8-9e1a-d15959dff328
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314270815	geckodriver	INFO	Listening on 127.0.0.1:61138
+1668314273858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61139" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJlnLHg"
+1668314274267	Marionette	INFO	Marionette enabled
+1668314274272	Marionette	INFO	Listening on port 61152
+Read port: 61152
+WebDriver BiDi listening on ws://127.0.0.1:61139
+1668314274380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileJlnLHg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61139/devtools/browser/313977c8-f61e-4514-901a-da62ff4a1f08
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314286564	Marionette	INFO	Stopped listening on port 61151668314289189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1lo1uB"
+1668314289744	Marionette	INFO	Marionette enabled
+1668314289761	Marionette	INFO	Listening on port 61215
+Read port: 61215
+WebDriver BiDi listening on ws://127.0.0.1:61202
+1668314290031	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile1lo1uB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61202/devtools/browser/8bed0e9a-450f-41d9-b746-d1625ca85ce0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314331632	Marionette	INFO	Stopped listening on port 61215
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "61271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileUxQZlq"
+1668314316665	Marionette	INFO	Marionette enabled
+1668314316672	Marionette	INFO	Listening on port 61282
+Read port: 61282
+WebDriver BiDi listening on ws://127.0.0.1:61271
+1668314316814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileUxQZlq\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61271/devtools/browser/f32acd5e-e931-4f2f-8dd8-0b74299c013e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668314329666	Marionette	INFO	Stopped listening on port 61282
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15744, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668316197640	geckodriver	INFO	Listening on 127.0.0.1:62201
+1668316200694	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62202" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilesrpt3h"
+1668316201103	Marionette	INFO	Marionette enabled
+1668316201109	Marionette	INFO	Listening on port 62214
+Read port: 62214
+WebDriver BiDi listening on ws://127.0.0.1:62202
+1668316201242	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilesrpt3h\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62202/devtools/browser/057bf167-8e44-4a69-a5c1-f3833ff1de88
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668316242366	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668316258866	Marionette	INFO	Stopped listening on port 62214
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668316309438	geckodriver	INFO	Listening on 127.0.0.1:62322
+1668316312511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62323" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilevCO4ZR"
+1668316313031	Marionette	INFO	Marionette enabled
+1668316313039	Marionette	INFO	Listening on port 62334
+Read port: 62334
+WebDriver BiDi listening on ws://127.0.0.1:62323
+1668316313240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilevCO4ZR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62323/devtools/browser/9020af2f-2dc3-4ebe-bbc0-7c5b420bbf27
+1668316378294	Marionette	INFO	Stopped listening on port 62334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62419" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofiletjneGO"
+1668316377153	Marionette	INFO	Marionette enabled
+1668316377159	Marionette	INFO	Listening on port 62433
+WebDriver BiDi listening on ws://127.0.0.1:62419
+Read port: 62433
+1668316377454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofiletjneGO\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62419/devtools/browser/83207736-48f7-4597-a153-cf47cb4f1554
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668316436641	Marionette	INFO	Stopped listening on port 62433
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62511" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileHPG05W"
+1668316436766	Marionette	INFO	Marionette enabled
+1668316436773	Marionette	INFO	Listening on port 62524
+Read port: 62524
+WebDriver BiDi listening on ws://127.0.0.1:62511
+1668316436917	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileHPG05W\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62511/devtools/browser/51f9e4bc-a2ac-44be-8d5a-a71f39819ec9
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668316505738	Marionette	INFO	Stopped listening on port 62524
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668316555984	geckodriver	INFO	Listening on 127.0.0.1:62637
+1668316559037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62638" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7XQbHZ"
+1668316559417	Marionette	INFO	Marionette enabled
+1668316559422	Marionette	INFO	Listening on port 62649
+Read port: 62649
+WebDriver BiDi listening on ws://127.0.0.1:62638
+1668316559549	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile7XQbHZ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62638/devtools/browser/ebd840c3-a181-4e83-9215-2c17b06e79c5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668319883258	Marionette	INFO	Stopped listening on port 62649
+[Parent 3348, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+emp\\rust_mozprofileiyqVEd"
+1668316858498	Marionette	INFO	Marionette enabled
+1668316858504	Marionette	INFO	Listening on port 62878
+Read port: 62878
+WebDriver BiDi listening on ws://127.0.0.1:62866
+1668316858700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileiyqVEd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62866/devtools/browser/136f3957-b8da-4c91-823e-eb0eff2c2ce2
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).truncateLines is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).placeholderText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).responsiveTables is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).not(...).responsiveText is not a function
+1668316896929	Marionette	INFO	Stopped listening on port 62878
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 5632, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1668316898985	geckodriver	INFO	Listening on 127.0.0.1:62953
+1668316902043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62954" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilefhnt7j"
+1668316902687	Marionette	INFO	Marionette enabled
+1668316902696	Marionette	INFO	Listening on port 62966
+Read port: 62966
+WebDriver BiDi listening on ws://127.0.0.1:62954
+1668316902934	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilefhnt7j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62954/devtools/browser/71012c03-f330-483c-8b69-db2c674408b0
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668316935714	Marionette	INFO	Stopped listening on port 62966
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668319895701	geckodriver	INFO	Listening on 127.0.0.1:64435
+1668319898754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileZGdZA4"
+1668319899055	Marionette	INFO	Marionette enabled
+1668319899059	Marionette	INFO	Listening on port 64447
+Read port: 64447
+WebDriver BiDi listening on ws://127.0.0.1:64436
+1668319899159	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileZGdZA4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64436/devtools/browser/1c09c83c-e704-4a4e-a73c-5d8d9af20316
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668319991782	Marionette	INFO	Stopped listening on port 64447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64545" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTUKfF1"
+1668319988215	Marionette	INFO	Marionette enabled
+1668319988220	Marionette	INFO	Listening on port 64557
+Read port: 64557
+WebDriver BiDi listening on ws://127.0.0.1:64545
+1668319988325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileTUKfF1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64545/devtools/browser/82050bcb-12c7-4302-b510-e0d73fb15d2c
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).placeholderText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).responsiveTables is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).not(...).responsiveText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).truncateLines is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 576: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1668320484416	Marionette	INFO	Stopped listening on port 64557
+e-debugging-port" "64758" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilezNez7m"
+1668320238373	Marionette	INFO	Marionette enabled
+1668320238377	Marionette	INFO	Listening on port 64771
+Read port: 64771
+WebDriver BiDi listening on ws://127.0.0.1:64758
+1668320238507	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilezNez7m\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64758/devtools/browser/7f443443-fc1d-4b47-af4f-1a0cadb2e8c6
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).placeholderText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).responsiveTables is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).not(...).responsiveText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).truncateLines is not a function
+1668320481182	Marionette	INFO	Stopped listening on port 64771
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "64890" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileDQxEkY"
+1668320369706	Marionette	INFO	Marionette enabled
+1668320369716	Marionette	INFO	Listening on port 64903
+Read port: 64903
+WebDriver BiDi listening on ws://127.0.0.1:64890
+1668320370032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofileDQxEkY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64890/devtools/browser/d67e5130-4820-4c4b-89b7-b53b02983e1e
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).placeholderText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).responsiveTables is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).not(...).responsiveText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).truncateLines is not a function
+1668320482697	Marionette	INFO	Stopped listening on port 64903
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668320505873	geckodriver	INFO	Listening on 127.0.0.1:65055
+1668320508933	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65056" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile06fdCz"
+1668320509363	Marionette	INFO	Marionette enabled
+1668320509368	Marionette	INFO	Listening on port 65069
+Read port: 65069
+WebDriver BiDi listening on ws://127.0.0.1:65056
+1668320509479	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile06fdCz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65056/devtools/browser/e67e6702-c134-49bc-9e9a-d2adad9a2d76
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668320571891	Marionette	INFO	Stopped listening on port 65069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668320578737	geckodriver	INFO	Listening on 127.0.0.1:65153
+1668320581810	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0mh8HF"
+1668320582123	Marionette	INFO	Marionette enabled
+1668320582128	Marionette	INFO	Listening on port 65165
+Read port: 65165
+WebDriver BiDi listening on ws://127.0.0.1:65154
+1668320582227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile0mh8HF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65154/devtools/browser/bf86ac3d-565d-4879-b0d5-c70bfbeab4b8
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+1668320600064	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:236:24
+TimedPromise@chrome://remote/content/marionette/sync.js:221:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.js:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.js:179:31
+1668320605632	Marionette	INFO	Stopped listening on port 65165
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1668320607509	geckodriver	INFO	Listening on 127.0.0.1:65218
+1668320610571	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemITt3N"
+1668320610900	Marionette	INFO	Marionette enabled
+1668320610904	Marionette	INFO	Listening on port 65234
+WebDriver BiDi listening on ws://127.0.0.1:65219
+Read port: 65234
+1668320611182	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofilemITt3N\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65219/devtools/browser/47a41bea-dee0-44c6-97d9-a3b1c4bac64f
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).placeholderText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).responsiveTables is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).not(...).responsiveText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).truncateLines is not a function
+1668321373517	geckodriver	INFO	Listening on 127.0.0.1:49409
+1668321376593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile3fIAY4"
+1668321377314	Marionette	INFO	Marionette enabled
+1668321377325	Marionette	INFO	Listening on port 49423
+Read port: 49423
+WebDriver BiDi listening on ws://127.0.0.1:49410
+1668321377592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Lenovo\\AppData\\Local\\Temp\\rust_mozprofile3fIAY4\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49410/devtools/browser/0f364361-4503-4271-8507-9d9cc5af61d3
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://electoralsearch.in."
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).placeholderText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).responsiveTables is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).not(...).responsiveText is not a function
+JavaScript error: https://electoralsearch.in/js/groundwork.all.js, line 1: TypeError: $(...).truncateLines is not a function
